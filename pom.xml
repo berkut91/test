@@ -53,8 +53,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>main.CalcClassic</mainClass>
-                              <mainClass>main.PasswordClassic</mainClass>
+                          <mainClass>method.Method</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
