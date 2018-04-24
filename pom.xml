@@ -53,7 +53,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                          <mainClass>method.Method</mainClass>
+                          <mainClass>main.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
